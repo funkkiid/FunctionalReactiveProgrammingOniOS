@@ -1,6 +1,6 @@
 # Summary
 
-* [introduction](README.md)
+* [Introduction](README.md)
 
 * [致谢](chapter1/acknowledagements.md)
 
