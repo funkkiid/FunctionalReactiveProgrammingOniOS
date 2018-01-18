@@ -1,5 +1,8 @@
 iOS的函数响应型编程
 ==
+
+> 本开源书 forked from [iOS的函数响应型编程](https://github.com/KevinHM/FunctionalReactiveProgrammingOniOS)，作者为 [KevinHM](https://github.com/KevinHM)，欢迎大家 star 原作者的 [repo](https://github.com/KevinHM/FunctionalReactiveProgrammingOniOS)，以便获得最新更新，谢谢！
+
 Functional reactive programming introduction using ReactiveCocoa - By AshFurrow
 
 本书翻译自[FunctionalReactiveProgrammingOniOS](http://leanpub.com/iosfrp)
